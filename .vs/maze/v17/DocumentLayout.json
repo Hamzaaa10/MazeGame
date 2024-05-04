@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\source\\repos\\maze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|c:\\users\\hamza\\source\\repos\\maze\\maze\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|solutionrelative:maze\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|c:\\users\\hamza\\source\\repos\\maze\\maze\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|solutionrelative:maze\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|c:\\users\\hamza\\source\\repos\\maze\\maze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|solutionrelative:maze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|c:\\users\\hamza\\source\\repos\\maze\\maze\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|solutionrelative:maze\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|c:\\users\\hamza\\source\\repos\\maze\\maze\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|solutionrelative:maze\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|c:\\users\\hamza\\source\\repos\\maze\\maze\\imazeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6F0E72-AF48-40D9-8E68-8E5119108965}|maze\\maze.csproj|solutionrelative:maze\\imazeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\Program.cs",
+              "RelativeDocumentMoniker": "maze\\Program.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\Program.cs",
+              "RelativeToolTip": "maze\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:06:59.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "space.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\space.cs",
+              "RelativeDocumentMoniker": "maze\\space.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\space.cs",
+              "RelativeToolTip": "maze\\space.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:11:34.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\Wall.cs",
+              "RelativeDocumentMoniker": "maze\\Wall.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\Wall.cs",
+              "RelativeToolTip": "maze\\Wall.cs",
+              "ViewState": "AQIAAAEAAABgMzMzMzMbwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:12:21.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Imazeobject.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\Imazeobject.cs",
+              "RelativeDocumentMoniker": "maze\\Imazeobject.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\Imazeobject.cs",
+              "RelativeToolTip": "maze\\Imazeobject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:11:12.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\player.cs",
+              "RelativeDocumentMoniker": "maze\\player.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\player.cs",
+              "RelativeToolTip": "maze\\player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:11:55.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "maze.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\maze.cs",
+              "RelativeDocumentMoniker": "maze\\maze.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\maze\\maze\\maze.cs",
+              "RelativeToolTip": "maze\\maze.cs",
+              "ViewState": "AQIAACUAAACAm5mZmRkiwCoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:07:58.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
